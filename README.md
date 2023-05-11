@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **shakilhossen566@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GNtWH-CU_fAqZGfN1ENDxu92IEHhv1vf/view](https://drive.google.com/file/d/1GNtWH-CU_fAqZGfN1ENDxu92IEHhv1vf/view)
-
 - ⚡ Fun fact **Sleep! Sleep!**
 
 <h3 align="left">Connect with me:</h3>
