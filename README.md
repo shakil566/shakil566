@@ -3,7 +3,6 @@
 ### I'm Md Shakil Hossen
 #### Full Stack Web Developer
 
-I have experience in web development using various technologies such as PHP framework Laravel, JavaScript, jQuery, Ajax, MySQL, Rest APIs, Payment Gateway, CSS, Bootstrap, and more. Writing clean code is my passion, and I enjoy discussing and writing about it. My goal is to contribute my skills, hard work, and honesty to an organization and help them succeed. I am committed to continuous learning and improving my skills to stay at the top of my game.
 
 Skills: LARAVEL / PHP / HTML / CSS /REACT / JS / REST API
 
